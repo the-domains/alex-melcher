@@ -4,11 +4,11 @@
         <description><![CDATA[alex melcher]]></description>
         <link>https://thegrid.ai/alex-melcher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 12:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 18:07:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-melcher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FollowMe]]></title>
-            <description><![CDATA[<article><h1>FollowMe</h1><p>This is "FollowMe" by alexmelcher on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <description><![CDATA[<article><h1>FollowMe</h1><p>This is "FollowMe" by alexmelcher on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ba686814060c7674fb49b189b88d526/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F482859196_1280x720.jpg"></article>]]></description>
             <link>https://vimeo.com/99724676</link>
             <guid isPermaLink="false">60518235-e662-4e8b-8c83-d7564deaabd4</guid>
             <pubDate>Mon, 22 Aug 2016 12:57:47 GMT</pubDate>
@@ -26,13 +26,6 @@
             <link>https://vimeo.com/99224618</link>
             <guid isPermaLink="false">76372d2d-f4bc-4173-bd5f-2877ce1342ee</guid>
             <pubDate>Mon, 22 Aug 2016 11:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IntoTheOpen]]></title>
-            <description><![CDATA[<article><h1>IntoTheOpen</h1><p>Studio-Session with the Boys of a Song from my first Album, - new arranged and recorded (with Arto Mäkelä- Guitars, Bora Öksüz -Bass, Hannes Dullinger -Drums)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db969fed22be2ff4894d934d7a555699/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F522491231_960x540.jpg"></article>]]></description>
-            <link>https://vimeo.com/92401416</link>
-            <guid isPermaLink="false">1d4a77eb-5400-48ff-996a-3e21376054d1</guid>
-            <pubDate>Mon, 22 Aug 2016 11:36:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
