@@ -1,4 +1,5 @@
 layout_spectrum: 0.4774436
+typography_spectrum: 0.5758182359859347
 color:
   saturation: 0.531441
   lightness: 0.534955
@@ -10,5 +11,4 @@ color:
     - '#322704'
     - '#FFFFFF'
   rhythmicContrast: 0.9106877
-typography_spectrum: 0.15809976519085467
 name: alex melcher
