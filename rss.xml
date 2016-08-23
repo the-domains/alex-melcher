@@ -4,7 +4,7 @@
         <description><![CDATA[www.alexmelcher.com]]></description>
         <link>https://thegrid.ai/alex-melcher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:05:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-melcher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/alex-melcher/0e25ca8f-88d7-4eea-b4fb-d56f02cfcd68/index.html</link>
             <guid isPermaLink="false">0e25ca8f-88d7-4eea-b4fb-d56f02cfcd68</guid>
             <pubDate>Tue, 23 Aug 2016 16:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fef93b5-3f4a-4858-b272-20134ae62591.jpg">]]></description>
-            <link>https://thegrid.ai/alex-melcher/audio/index.html</link>
-            <guid isPermaLink="false">81150287-b532-4e05-8db8-1cadfdc7504e</guid>
-            <pubDate>Tue, 23 Aug 2016 16:44:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
