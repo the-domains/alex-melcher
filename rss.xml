@@ -4,7 +4,7 @@
         <description><![CDATA[www.alexmelcher.com]]></description>
         <link>https://thegrid.ai/alex-melcher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 18:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 18:24:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-melcher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FollowMe]]></title>
@@ -33,13 +33,6 @@
             <link>https://vimeo.com/99224618</link>
             <guid isPermaLink="false">76372d2d-f4bc-4173-bd5f-2877ce1342ee</guid>
             <pubDate>Tue, 23 Aug 2016 18:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IfYouReallyTry by Alex Melcher]]></title>
-            <description><![CDATA[<article><h1>IfYouReallyTry by Alex Melcher</h1><p>"If you really try" -From The Album "The Tune- No More Excuses"</p></article>]]></description>
-            <link>https://soundcloud.com/alexmelcher/ifyoureallytry</link>
-            <guid isPermaLink="false">8a959463-582d-406a-b43c-986037fe1aa1</guid>
-            <pubDate>Tue, 23 Aug 2016 18:23:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
